@@ -1,4 +1,4 @@
-##Chat Bidireccional con Sockets en Java
+## Chat Bidireccional con Sockets en Java
 
 Este proyecto implementa un sistema de comunicación vía chat bidireccional utilizando sockets en Java. Está compuesto por dos programas principales: un servidor y un cliente. La aplicación permite la conexión de múltiples clientes al servidor, ofreciendo funcionalidades básicas de chat en tiempo real, gestión de usuarios y manejo de desconexiones.
 
